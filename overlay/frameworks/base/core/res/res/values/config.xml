@@ -398,6 +398,9 @@
     <!-- FOD Animations -->
     <bool name="showFODAnimationPicker">true</bool>
 
+    <!-- If true, the camera will be used more often. -->
+    <bool name="config_adaptive_sleep_available">false</bool>
+
     <!-- Smart Charging -->
     <bool name="config_deviceSupportSmartCharging">true</bool>
     <bool name="config_smartChargingAvailable">true</bool>
