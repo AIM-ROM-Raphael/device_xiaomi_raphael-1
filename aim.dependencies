@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",   
+    "repository": "AIM-ROM-Raphael/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "10.0"
+  }
+]
